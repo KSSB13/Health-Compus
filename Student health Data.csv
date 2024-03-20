@@ -1,0 +1,139 @@
+Timestamp,Name,Age,Gender,Height(in CMs/ Inches),Weight(in KGs),Do You Wear Spectacles?,Food Preference,Have you visited CU hospital recently?,Purpose of visiting hospital,Were you referred to Another Hospital ?,Has CU hospital helped you?,Have you received medical leave from cu hospital?,How many hours do you sleep in a day?,Do you feel mentally exhausted sometimes?,Rate your mental health on a scale of 1 to 5,Do you need Mental Relaxation Sessions,Blood Group,BMI
+5/8/2023 11:58,Raj,20,Male,176,67,Yes,Non-VEG,yes,"Body Pain, Fever",No,yes,yes,7 hours,Yes,2,yes,AB+,21.62964876
+5/8/2023 11:59,Jatin,20,Male,170,68,No,VEG,yes,Fever,No,yes,No,7 hours,Yes,1,yes,B-,23.52941176
+5/8/2023 11:59,Aplavya Kumar,18,Male,185,65,Yes,VEG,yes,Fever,No,yes,No,8 hours,Yes,3,no,A+,18.99196494
+5/8/2023 12:03,Nikhil sharma,20,Male,170,72,No,Non-VEG,No,NOT VISITED,Yes,No,No,less than 6 hours,Yes,3,yes,O+,24.91349481
+5/8/2023 12:09,Sachin,20,Male,181,81,Yes,Non-VEG,yes,Injuries,No,yes,yes,less than 6 hours,No,2,no,O-,24.72452001
+5/8/2023 12:10,Akahay,21,Female,170,66,No,Non-VEG,yes,Food Poisoning,No,yes,No,8 hours,Yes,3,yes,AB+,22.83737024
+5/8/2023 12:11,Lokesh,21,Male,175,79,Yes,Non-VEG,No,NOT VISITED,No,No,No,6 hours,No,1,no,B+,25.79591837
+5/8/2023 12:12,Devesh,18,Male,188,78,Yes,VEG,yes,Food Poisoning,No,yes,No,less than 6 hours,Yes,1,yes,A+,22.06880942
+5/8/2023 12:13,Peeush Raj,23,Male,155,80,Yes,VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,1,yes,A+,33.29864724
+5/8/2023 12:14,Ankit Singh,20,Male,175,75,Yes,VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,1,no,O-,24.48979592
+5/8/2023 12:15,Karan,22,Male,168,59,No,VEG,yes,"Breathing Problems, Eye sight issues",No,yes,yes,8 hours,Yes,4,yes,AB-,20.90419501
+5/8/2023 12:16,Tanya,19,Female,154,54,No,VEG,yes,Fever,No,yes,yes,7 hours,No,2,no,O+,22.76943835
+5/8/2023 12:17,Aulis Asif,20,Male,175,72,No,Non-VEG,yes,Food Poisoning,No,yes,yes,7 hours,Yes,3,yes,O+,23.51020408
+5/8/2023 12:18,Sachin Kumar,19,Male,5.8,65,Yes,Non-VEG,yes,"Body Pain, Fever",No,yes,No,7 hours,Yes,3,yes,A-,19322.23543
+5/8/2023 12:18,Ravesh,22,Male,174,71,No,Non-VEG,yes,"Heart issues, Breathing Problems",Yes,yes,yes,less than 6 hours,No,3,no,B+,23.45091822
+5/8/2023 12:19,Kunal shaw,21,Male,169,76,No,Non-VEG,No,NOT VISITED,No,No,No,6 hours,No,1,yes,A+,26.60971255
+5/8/2023 12:19,Sahil Pathania,20,Male,165,53,No,VEG,No,NOT VISITED,No,No,No,8 hours,Yes,3,yes,A+,19.46740129
+5/8/2023 12:20,Devika,19,Female,198,77,Yes,Non-VEG,yes,Body Pain,No,yes,No,less than 6 hours,Yes,2,yes,O-,19.64085297
+5/8/2023 12:20,Khushi Kumari,20,Female,154,49,Yes,VEG,No,NOT VISITED,No,No,No,6 hours,Yes,2,yes,A+,20.66115702
+5/8/2023 12:20,Anshul Somani,20,Male,189,92,No,VEG,No,NOT VISITED,No,No,No,7 hours,Yes,4,no,O+,25.75515803
+5/8/2023 12:21,Aditya Mishra,20,Male,154,60,Yes,VEG,No,NOT VISITED,No,yes,No,6 hours,No,2,no,A+,25.29937595
+5/8/2023 12:27,Ankita Sharma,20,Female,157,45,No,VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,2,no,B+,18.25631871
+5/8/2023 12:27,Saloni Chaurasia,21,Female,154,45,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,1,no,AB+,18.97453196
+5/8/2023 12:28,Tanya chaurasiya,20,Female,162,45,No,VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,B-,17.14677641
+5/8/2023 12:30,Anjali,21,Female,124,53,No,VEG,No,NOT VISITED,No,No,No,more than 8 hours,Yes,4,yes,A+,34.46930281
+5/8/2023 12:30,Ishita,22,Male,154,55,No,VEG,yes,Food Poisoning,No,yes,yes,less than 6 hours,No,3,yes,A+,23.19109462
+5/8/2023 12:30,Priti Gupta,23,Female,170,80,Yes,Non-VEG,yes,Fever,Yes,yes,yes,more than 8 hours,Yes,5,yes,O+,27.6816609
+5/8/2023 12:31,Aarushi,19,Female,154,49,Yes,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,3,no,AB+,20.66115702
+5/8/2023 12:32,Ayush Gupta,21,Male,165,73,No,VEG,No,NOT VISITED,No,yes,No,8 hours,Yes,4,no,A+,26.81359045
+5/8/2023 12:32,Riya Singh,21,Female,152,50,Yes,VEG,yes,Fever,No,yes,yes,7 hours,No,3,no,O+,21.64127424
+5/8/2023 12:34,Gopi agrawal,22,Female,167,60,Yes,Non-VEG,yes,Body Pain,No,yes,yes,7 hours,Yes,3,no,B-,21.51385851
+5/8/2023 12:35,Diya,19,Female,142,65,Yes,Non-VEG,yes,Breathing Problems,No,yes,yes,7 hours,Yes,3,yes,O+,32.23566753
+5/8/2023 12:36,Ravi,24,Male,193,75,Yes,Non-VEG,yes,skin Infection,No,yes,yes,7 hours,No,3,yes,A+,20.13476872
+5/8/2023 12:37,Ayushi Kaushik,20,Female,162,62,Yes,Non-VEG,yes,NOT VISITED,Yes,yes,No,less than 6 hours,Yes,3,yes,O+,23.62444749
+5/8/2023 12:38,Siya,23,Female,167,67,Yes,VEG,yes,Injuries,No,yes,No,less than 6 hours,Yes,4,yes,B+,24.02380867
+5/8/2023 12:38,Harjot Singh,21,Male,181,79,Yes,Non-VEG,yes,Eye sight issues,No,yes,No,less than 6 hours,No,3,no,AB-,24.11403803
+5/8/2023 12:38,Hadis Husain,19,Male,177,54,No,Non-VEG,No,NOT VISITED,No,No,No,8 hours,Yes,4,yes,A+,17.23642631
+5/8/2023 12:40,Deva,24,Male,180,67,Yes,VEG,yes,skin Infection,Yes,yes,yes,8 hours,Yes,5,yes,O+,20.67901235
+5/8/2023 12:41,Garima,20,Female,162,55,No,VEG,yes,Bacterial Infection,No,yes,yes,8 hours,Yes,4,yes,B-,20.95717116
+5/8/2023 12:43,Vaibhav,24,Male,180,70,Yes,VEG,yes,Food Poisoning,Yes,yes,yes,7 hours,Yes,5,yes,A-,21.60493827
+5/8/2023 12:43,Hritik Thakur,20,Male,176,68,No,VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,4,yes,AB+,21.95247934
+5/8/2023 12:45,Nancy,20,Female,167,65,Yes,VEG,yes,Eye sight issues,No,yes,yes,8 hours,Yes,5,yes,A+,23.30668005
+5/8/2023 12:45,Arnav Sharma,20,Male,183,85,Yes,VEG,yes,Fever,No,yes,No,less than 6 hours,Yes,4,yes,O+,25.38146854
+5/8/2023 12:48,Karan Yadav,20,Male,180,81,No,VEG,No,NOT VISITED,No,No,No,6 hours,No,1,no,A+,25
+5/8/2023 12:53,Deepika Choudhary,18,Female,157,43,No,VEG,No,NOT VISITED,No,No,No,7 hours,No,4,yes,O,17.44492677
+5/8/2023 12:54,Nishant,18,Male,169,75,No,VEG,yes,"Body Pain, Fever",No,yes,yes,6 hours,Yes,3,yes,AB,26.25958475
+5/8/2023 12:55,Manish De,21,Male,175,75,No,Non-VEG,No,NOT VISITED,No,No,No,8 hours,Yes,3,no,O+,24.48979592
+5/8/2023 13:00,Disha Sharma,19,Female,160,63,Yes,VEG,yes,"Body Pain, Fever",No,yes,No,7 hours,Yes,3,no,A+,24.609375
+5/8/2023 13:00,Sunaina,20,Female,157.48,57,Yes,VEG,No,NOT VISITED,No,No,No,6 hours,Yes,2,yes,O+,22.98391694
+5/8/2023 13:02,Parth Bhoyar,19,Male,182,65,Yes,VEG,yes,Fever,No,yes,No,7 hours,Yes,1,no,AB+,19.62323391
+5/8/2023 13:02,Mir Ibrahim,21,Male,176,57,No,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,3,yes,AB+,18.40134298
+5/8/2023 13:03,Arihant Kumar,18,Male,173,73,Yes,Non-VEG,yes,Injuries,No,No,No,7 hours,Yes,2,yes,A+,24.39105884
+5/8/2023 13:08,Tushar Singh,22,Male,180,62,Yes,Non-VEG,No,NOT VISITED,No,yes,No,8 hours,Yes,4,no,B+,19.13580247
+5/8/2023 13:09,Bhavya vasavi,20,Female,152,52,Yes,Non-VEG,No,NOT VISITED,No,No,yes,6 hours,Yes,2,yes,O+,22.50692521
+5/8/2023 13:10,Anju,22,Female,167,62,Yes,VEG,yes,NOT VISITED,No,No,No,7 hours,Yes,1,yes,B+,22.23098713
+5/8/2023 13:11,Param singh,23,Male,175,76,No,Non-VEG,No,NOT VISITED,No,No,No,8 hours,Yes,1,no,0+,24.81632653
+5/8/2023 13:13,Seemant kaushal,21,Male,162,64,No,VEG,No,NOT VISITED,No,No,No,7 hours,Yes,3,yes,O+,24.38652644
+5/8/2023 13:22,Nittin Rana,21,Male,165,48,No,VEG,No,NOT VISITED,No,No,No,8 hours,Yes,2,yes,A +,17.63085399
+5/8/2023 13:23,Ankit Raj,19,Male,186,82,No,Non-VEG,No,NOT VISITED,No,yes,No,7 hours,Yes,2,yes,AB+,23.7021621
+5/8/2023 13:27,Mohit raj,19,Male,175,55,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,Yes,5,no,B+,17.95918367
+5/8/2023 13:31,Atul mishra,21,Male,175,80,Yes,VEG,No,NOT VISITED,No,No,yes,6 hours,No,5,yes,O+,26.12244898
+5/8/2023 13:35,Saurav Kumar,21,Male,170,55,No,VEG,No,NOT VISITED,No,No,No,less than 6 hours,No,4,no,B+,19.03114187
+5/8/2023 13:36,Abhijeet Singh,21,Male,172,60,No,Non-VEG,No,NOT VISITED,No,yes,No,8 hours,No,4,yes,O+,20.2812331
+5/8/2023 13:39,Daksh yadav,19,Male,178,70,Yes,VEG,No,NOT VISITED,No,No,yes,6 hours,Yes,3,no,Don't know,22.09317005
+5/8/2023 13:40,hardik,21,Male,198,88,No,Non-VEG,No,Body Pain,Yes,yes,No,6 hours,No,5,no,AB+,22.44668911
+5/8/2023 13:42,Hardik Nitin Barhate,19,Male,171,62,No,VEG,No,NOT VISITED,Yes,yes,No,6 hours,Yes,4,no,O+,21.20310523
+5/8/2023 13:44,Tanvi Agarwal,19,Female,159,55,Yes,VEG,No,NOT VISITED,No,yes,No,less than 6 hours,Yes,3,no,A+,21.75546853
+5/8/2023 13:46,Prashant Kumar,21,Male,180,78,No,Non-VEG,No,NOT VISITED,Yes,yes,No,8 hours,Yes,4,yes,AB+,24.07407407
+5/8/2023 13:46,Ritik Kumar,20,Male,173,71,Yes,Non-VEG,No,NOT VISITED,No,No,No,8 hours,Yes,3,no,B+,23.72281065
+5/8/2023 13:46,Prince Kumar,21,Male,165,70,Yes,VEG,No,NOT VISITED,No,No,No,7 hours,No,1,yes,B+,25.71166208
+5/8/2023 13:47,Parth Bansal,20,Male,175,71.5,Yes,VEG,yes,"Body Pain, Bacterial Infection",No,No,No,6 hours,Yes,4,yes,A+,23.34693878
+5/8/2023 13:47,Ritesh kumar,21,Male,165,55,No,VEG,No,NOT VISITED,No,No,No,8 hours,Yes,3,yes,B+,20.2020202
+5/8/2023 13:49,Abhay Raj,19,Male,167,68,No,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,Yes,2,yes,B+,24.38237298
+5/8/2023 13:49,Rahul Kumar,19,Male,180,87,Yes,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,1,no,AB+,26.85185185
+5/8/2023 13:50,Yugraj Singh,19,Male,183,85,Yes,VEG,No,NOT VISITED,No,yes,No,6 hours,No,4,yes,O+,25.38146854
+5/8/2023 13:54,Mohammad Sajjad,20,Male,162,55,No,Non-VEG,No,NOT VISITED,No,No,No,6 hours,Yes,3,yes,O+,20.95717116
+5/8/2023 13:55,Adarsh thakur,24,Male,183,74,No,Non-VEG,No,NOT VISITED,No,No,No,7 hours,Yes,4,no,O+,22.09680791
+5/8/2023 13:56,Aniket,19,Male,170,67,No,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,Yes,1,yes,B+,23.183391
+5/8/2023 14:00,Pinku kumar Jha,24,Male,168.4,68,No,Non-VEG,No,NOT VISITED,No,yes,No,more than 8 hours,Yes,4,no,B-,23.97865054
+5/8/2023 14:01,Himanshu Kumar Singh,19,Male,171,73,No,Non-VEG,No,NOT VISITED,No,No,No,7 hours,Yes,3,no,O+,24.96494648
+5/8/2023 14:02,Rishav Thakur,19,Male,179,67,Yes,VEG,No,NOT VISITED,Yes,No,No,less than 6 hours,Yes,2,no,NA,20.91070816
+5/8/2023 14:03,Rishabh Raj Maurya,20,Male,178,66,No,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,5,no,O+,20.83070319
+5/8/2023 14:06,Lovepreet Singh,20,Male,175,55,No,VEG,No,NOT VISITED,Yes,No,yes,6 hours,Yes,4,yes,AB+,17.95918367
+5/8/2023 14:13,Harsh,18,Male,169,43,Yes,Non-VEG,yes,Injuries,No,yes,No,8 hours,Yes,3,no,A+,15.05549526
+5/8/2023 14:15,Babli,18,Female,154,70,Yes,VEG,yes,Injuries,Yes,No,No,6 hours,No,1,yes,B+,29.51593861
+5/8/2023 14:15,Aman Raj Singh,19,Male,185,63,Yes,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,4,yes,B+,18.40759679
+5/8/2023 14:17,Rama,24,Female,150.7,67,Yes,Non-VEG,No,NOT VISITED,No,No,No,8 hours,No,1,no,O+,29.5017853
+5/8/2023 14:22,Kavita,23,Female,161.5,48,No,VEG,yes,Fever,No,yes,yes,7 hours,Yes,3,yes,A+,18.40332027
+5/8/2023 14:22,Jaya,17,Female,165.7,45,Yes,Non-VEG,yes,Breathing Problems,No,yes,No,8 hours,No,2,no,A-,16.38956764
+5/8/2023 14:23,Chaya,23,Female,163,50,Yes,Non-VEG,yes,Eye sight issues,No,yes,yes,8 hours,Yes,2,no,B+,18.81892431
+5/8/2023 14:24,Mukesh,24,Male,170,54,No,Non-VEG,yes,Injuries,No,yes,No,6 hours,Yes,4,yes,B+,18.68512111
+5/8/2023 14:25,Manish,20,Male,182,62,No,VEG,yes,Food Poisoning,No,yes,yes,less than 6 hours,Yes,2,yes,B-,18.71754619
+5/8/2023 14:26,Shweta,20,Female,162,48,Yes,VEG,yes,Body Pain,No,No,yes,7 hours,Yes,2,yes,A-,18.28989483
+5/8/2023 14:26,Rajnandini Pandey,20,Female,157,58,No,VEG,No,NOT VISITED,No,No,No,8 hours,No,2,no,O+,23.53036634
+5/8/2023 14:27,Shreya,23,Female,174,55,No,VEG,yes,Food Poisoning,No,yes,yes,6 hours,Yes,5,yes,O-,18.16620425
+5/8/2023 14:27,Ishita,22,Female,161.3,50,No,VEG,yes,Fever,No,yes,No,7 hours,Yes,5,yes,A+,19.21769381
+5/8/2023 14:27,Arpita Sahu,22,Female,162,70,Yes,VEG,No,NOT VISITED,No,No,No,more than 8 hours,Yes,4,no,B+,26.6727633
+5/8/2023 14:28,Manu,18,Female,162,183,No,Non-VEG,yes,Fever,No,yes,yes,8 hours,Yes,4,yes,A+,69.73022405
+5/8/2023 14:29,Anshul,23,Male,166,52,Yes,VEG,yes,Injuries,Yes,yes,yes,7 hours,Yes,2,yes,B-,18.87066338
+5/8/2023 14:30,Aakash,21,Male,164,56,Yes,VEG,No,Body Pain,Yes,yes,No,8 hours,Yes,3,yes,A-,20.82093992
+5/8/2023 14:30,Kavya,20,Female,162,48,No,Non-VEG,yes,Breathing Problems,No,yes,yes,7 hours,Yes,4,yes,A+,18.28989483
+5/8/2023 14:30,Kuram,21,Male,185,70,No,Non-VEG,yes,Bacterial Infection,No,yes,yes,less than 6 hours,Yes,2,yes,B-,20.45288532
+5/8/2023 14:32,Charu,23,Female,167,72,Yes,VEG,yes,Injuries,No,yes,yes,6 hours,Yes,5,yes,B+,25.81663021
+5/8/2023 14:33,Priya,24,Female,169,65,Yes,Non-VEG,yes,Breathing Problems,Yes,yes,yes,6 hours,Yes,5,yes,O-,22.75830678
+5/8/2023 14:35,MD Irshad alam,19,Male,175,58,No,Non-VEG,No,NOT VISITED,No,No,No,8 hours,No,3,no,O+,18.93877551
+5/8/2023 14:35,Krishna  Kumar,17,Male,178,57,Yes,VEG,yes,skin Infection,No,yes,No,8 hours,No,3,yes,A+,17.99015276
+5/8/2023 14:36,Zakir Khan,21,Male,192,80,No,Non-VEG,No,Heart issues,Yes,No,No,less than 6 hours,Yes,4,yes,A+,21.70138889
+5/8/2023 14:37,Sintu Raj,20,Male,167,70,No,VEG,No,NOT VISITED,No,No,No,8 hours,No,4,no,O+,25.0995016
+5/8/2023 14:37,Evana,22,Female,165,72,Yes,Non-VEG,yes,Food Poisoning,No,yes,yes,7 hours,Yes,3,yes,O+,26.44628099
+5/8/2023 14:39,Daya,18,Male,179,64,No,VEG,yes,Breathing Problems,Yes,No,yes,7 hours,Yes,1,no,B+,19.97440779
+5/8/2023 14:41,Kashish,22,Female,184,80,No,VEG,yes,Body Pain,Yes,yes,No,more than 8 hours,Yes,5,yes,A+,23.6294896
+5/8/2023 14:42,Mohit,24,Male,176,74,No,Non-VEG,yes,Bacterial Infection,Yes,yes,yes,8 hours,Yes,4,no,B+,23.88946281
+5/8/2023 14:43,Yash,16,Male,184,69,No,VEG,No,Injuries,Yes,No,No,6 hours,No,5,no,B+,20.38043478
+5/8/2023 14:44,Prerna Choudhary,18,Female,165,60,Yes,VEG,No,NOT VISITED,Yes,No,No,8 hours,Yes,3,yes,A+,22.03856749
+5/8/2023 14:44,Tany,21,Female,165,45,No,VEG,yes,Eye sight issues,Yes,yes,No,8 hours,No,2,no,A-,16.52892562
+5/8/2023 14:46,Nandini,19,Female,159,49,Yes,VEG,No,Food Poisoning,Yes,No,No,7 hours,No,3,no,B-,19.38214469
+5/8/2023 14:47,Siva,18,Male,178,62,No,VEG,yes,Injuries,Yes,No,No,more than 8 hours,No,1,yes,B+,19.56823633
+5/8/2023 14:47,Shristhi,23,Female,157,50,Yes,Non-VEG,No,Eye sight issues,Yes,No,No,more than 8 hours,Yes,2,no,B+,20.28479857
+5/8/2023 14:47,Pratap Singh,20,Male,175,60,No,VEG,No,NOT VISITED,No,No,No,7 hours,No,1,no,B+,19.59183673
+5/8/2023 14:48,Liya,20,Female,178,67,Yes,Non-VEG,yes,Bacterial Infection,Yes,yes,yes,7 hours,No,2,no,A+,21.14631991
+5/8/2023 14:49,Anamika,20,Female,162,65,Yes,Non-VEG,yes,Injuries,No,No,No,more than 8 hours,No,1,no,A,24.76756592
+5/8/2023 14:50,Suryakant,22,Male,167,75,Yes,Non-VEG,No,"Fever, NOT VISITED",No,No,No,more than 8 hours,No,1,no,X,26.89232314
+5/8/2023 14:52,Chillu,22,Male,175,75,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,Y,24.48979592
+5/8/2023 14:53,Sonu,19,Male,165,67,No,VEG,yes,Food Poisoning,No,yes,yes,7 hours,Yes,4,yes,A+,24.6097337
+5/8/2023 14:54,Tae Bong,22,Male,175,65,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,1,no,Z,21.2244898
+5/8/2023 14:56,Tanadi,22,Female,172,75,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,B,25.35154137
+5/8/2023 14:56,Anamika Chaudhary,19,Female,153,50,Yes,Non-VEG,No,NOT VISITED,No,No,No,less than 6 hours,Yes,4,yes,O+,21.35930625
+5/8/2023 14:57,Ronit,20,Female,170,65,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,A,22.49134948
+5/8/2023 14:58,Divya Singh,24,Female,169,49,Yes,Non-VEG,yes,Injuries,No,yes,yes,8 hours,Yes,2,no,A+,17.15626204
+5/8/2023 14:59,Murtsim,22,Male,167,76,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,C,27.25088745
+5/8/2023 15:00,Vishakha,23,Female,167,74,Yes,VEG,yes,Breathing Problems,Yes,yes,yes,8 hours,Yes,5,yes,A+,26.53375883
+5/8/2023 15:00,Meerab,22,Female,159,67,Yes,Non-VEG,No,NOT VISITED,No,No,No,more than 8 hours,No,2,no,A,26.50211621
+5/8/2023 15:05,Kartik,18,Male,158,65,Yes,VEG,yes,Eye sight issues,No,yes,No,8 hours,No,2,no,A-,26.03749399
+5/8/2023 15:21,Mayesha,21,Female,160,51,Yes,VEG,No,NOT VISITED,No,No,No,7 hours,Yes,3,yes,A+,19.921875
+5/8/2023 15:29,Vanshika,21,Female,165,48,Yes,VEG,No,NOT VISITED,Yes,No,No,7 hours,Yes,3,no,B-,17.63085399
+5/8/2023 15:29,Vivek,19,Male,173,74,No,VEG,No,NOT VISITED,Yes,No,No,less than 6 hours,No,3,no,Don't Know,24.72518293
+5/8/2023 15:29,Sumit Kumar,22,Male,178,70,Yes,VEG,No,"Eye sight issues, NOT VISITED",No,No,No,6 hours,Yes,5,yes,O+,22.09317005
+5/8/2023 15:40,Manoj Vamsi,18,Male,165,100,No,Non-VEG,No,"Food Poisoning, Stressed",No,No,No,12 hours,Yes,5,no,O-,35.215
