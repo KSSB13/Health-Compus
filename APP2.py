@@ -130,10 +130,14 @@ def input_form_page(existing_data=None):
         else:
             existing_data = pd.concat([existing_data, new_data], ignore_index=True)
 
+        # Write the updated data to the CSV file
+        existing_data.to_csv('Updated Data set.csv', index=False)  # Assuming the CSV file is named 'user_credentials.csv'
+
         # Display the updated data
         st.write(existing_data)
 
     return existing_data
+
 
 def seasonal_disease_prediction():
     st.header('Seasonal Disease Prediction')
@@ -172,7 +176,12 @@ def seasonal_disease_prediction():
             st.write("Precautions: Get vaccinated, wash hands frequently, avoid close contact with sick individuals, cover mouth and nose when sneezing or coughing.")
         elif disease == 'Allergies':
             st.write("Precautions: Keep windows closed during high pollen seasons, use air purifiers, avoid outdoor activities on high pollen days.")
-        # Add precautions for other diseases
+        elif disease == 'Common Cold':
+            st.write("Precautions: Washing your hands, Avoiding touching your face, Cleaning frequently used surfaces, Using hand sanitizers, Strengthening your immune system and Staying home.\n suggested medicines:  aspirin, ibuprofen and naproxen.")
+        elif disease == 'Dehydration':
+            st.write("Precautions: Drink plenty of water, Eat foods with high amounts of water like fruits and vegetables, Avoid or limit drinks with caffeine like coffee, teas and soft drinks and Avoid or limit drinks with alcohol.")
+        elif disease == 'Fever':
+            st.write("Precautions: Limiting exposure to infectious agents, Drink plenty of fluids to stay hydrated, Dress in lightweight clothing, Use a light blanket if you feel chilled, until the chills end.")
 
 # Function to predict diseases based on analyzed data
 def predict_diseases(data):
@@ -180,10 +189,10 @@ def predict_diseases(data):
     # This function should return a dictionary mapping seasons to predicted diseases
     predicted_diseases = {}
     # Example: Predicting flu for the winter season
-    predicted_diseases['Spring'] = 'No prediction'
-    predicted_diseases['Summer'] = 'No prediction'
-    predicted_diseases['Autumn'] = 'No prediction'
-    predicted_diseases['Winter'] = 'Flu'
+    predicted_diseases['Spring'] = 'Allergies'
+    predicted_diseases['Summer'] = 'Dehydration'
+    predicted_diseases['Autumn'] = 'Fever'
+    predicted_diseases['Winter'] = 'Common Cold'
     return predicted_diseases
 
 
@@ -191,13 +200,10 @@ def allergies_prediction():
     st.header('Allergies Prediction')
 
     # Analyze the existing data to identify patterns or correlations
-    # Here you would perform your analysis to identify allergies based on food and other factors
-
-    # Based on the analysis, predict allergies
     predicted_allergies = predict_allergies(existing_data)  # This function should return a list of predicted allergies
 
     # Display the predicted allergies and precautions
-    st.subheader('Predicted Allergies')
+    st.subheader('Predicted Allergies and Precautions')
     if not predicted_allergies:
         st.write("No allergies predicted.")
     else:
@@ -206,16 +212,28 @@ def allergies_prediction():
             # Add precautions based on the predicted allergy
             if allergy == 'Peanuts':
                 st.write("Precautions: Avoid eating peanuts and peanut-containing products.")
-            elif allergy == 'Pollen':
-                st.write("Precautions: Stay indoors on high pollen days, use air purifiers, keep windows closed.")
+            elif allergy == 'Shellfish':
+                st.write("Precautions: Avoid consuming shellfish, and be cautious of cross-contamination in cooking.")
             # Add precautions for other allergies
 
 # Function to predict allergies based on analyzed data
 def predict_allergies(data):
     # Perform analysis on the data to predict allergies
-    # This function should return a list of predicted allergies
-    predicted_allergies = []  # Placeholder, replace with actual predictions
+
+    # Define a list to store predicted allergies
+    predicted_allergies = []
+
+    # Check for potential allergies based on the data
+    # Example: Check if there's a correlation between certain food items and hospital visits related to allergies
+    # For demonstration purposes, let's assume that if a person visited the hospital due to allergies related to food, they may have an allergy to that food
+    food_allergy_indicators = ['Peanuts', 'Shellfish', 'Eggs', 'Milk', 'Wheat', 'Soy', 'Fish', 'Tree Nuts']
+    for indicator in food_allergy_indicators:
+        if indicator in data['Purpose of visiting hospital'].values:
+            predicted_allergies.append(indicator)
+
+    # Return the predicted allergies
     return predicted_allergies
+
 
 
 
