@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import subprocess
+import bcrypt
+
+def hash_password(password):
+    # Hash the password
+    hashed_password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
+    return hashed_password.decode('utf-8')
 
 def handle_signup(username, password):
     # Create a DataFrame with the new user's data
-    new_user_data = pd.DataFrame({'Username': [username], 'Password': [password]})
+    new_user_data = pd.DataFrame({'Username': [username], 'Password': [hash_password(password)]})
     
     # Append the new user's data to the CSV file
     try:
@@ -24,7 +30,8 @@ def authenticate_user(username, password):
             if 'Username' in user_credentials.columns:
                 if (user_credentials['Username'] == username).any():
                     # Check password only if username exists
-                    if user_credentials.loc[user_credentials['Username'] == username, 'Password'].values[0] == password:
+                    hashed_password = user_credentials.loc[user_credentials['Username'] == username, 'Password'].values[0]
+                    if bcrypt.checkpw(password.encode('utf-8'), hashed_password.encode('utf-8')):
                         return True
                     else:
                         return False
@@ -59,8 +66,8 @@ def signup_page():
             st.warning("Please enter both username and password.")
 
 def main():
-    st.title("User Authentication App")
-    st.sidebar.title("Navigation")
+    st.title("User Authentication")
+    # st.sidebar.title("Navigation")
     page = st.sidebar.radio("Go to", ["Login", "Sign Up"])
     
     if page == "Login":
